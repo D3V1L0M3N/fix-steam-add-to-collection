@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Fix Steam's "Add to Collection" List - Size and Position
-// @namespace   itsdevil.com
+// @namespace   https://itsdevil.com
 // @homepageURL https://github.com/D3V1L0M3N/fix-steam-add-to-collection
 // @match       https://steamcommunity.com/sharedfiles/filedetails/*
 // @grant       none
